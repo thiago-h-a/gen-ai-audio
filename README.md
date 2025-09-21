@@ -1,8 +1,5 @@
 # Notetaker AI (Django REST Backend)
 
-This repository has been migrated from a FastAPI layout to a Django REST
-Framework (DRF) API while preserving existing public endpoints and the demo flow.
-
 ## Quickstart (Dev)
 
 ```bash
