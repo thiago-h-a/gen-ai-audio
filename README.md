@@ -1,4 +1,4 @@
-# Notetaker AI (Django REST Backend)
+# Notetaker AI
 
 ## Quickstart (Dev)
 
